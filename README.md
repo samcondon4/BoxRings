@@ -1,2 +1,6 @@
 # BoxRings
 Quick object oriented project with java in the Processing environment
+
+
+Changes to a few parameters in the code changes overall form of image
+![screenshot](https://user-images.githubusercontent.com/36753018/60148013-4a53e480-9784-11e9-860a-35118aa393a8.png)
